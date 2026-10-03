@@ -350,4 +350,4 @@ Submit a pull request with a clear description of your changes.
 
 
 
-ache-2.0, or GPL-3.0, before publishing the project as a reusable software package.
+
