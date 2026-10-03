@@ -348,8 +348,6 @@ git checkout -b feature/new-feature
 
 Submit a pull request with a clear description of your changes.
 
----
 
-## 📄 License
 
-Add an appropriate open-source license to the repository, such as MIT, Apache-2.0, or GPL-3.0, before publishing the project as a reusable software package.
+ache-2.0, or GPL-3.0, before publishing the project as a reusable software package.
